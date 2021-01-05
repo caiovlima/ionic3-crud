@@ -157,4 +157,4 @@ Project Link: [https://github.com/caiovlima/ionic3-crud](https://github.com/caio
 [license-shield]: https://img.shields.io/github/license/caiovlima/ionic3-crud.svg?style=for-the-badge
 [license-url]: https://github.com/caiovlima/ionic3-crud/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/caiovlima
+[linkedin-url]: https://www.linkedin.com/in/caioviniciuslima/
